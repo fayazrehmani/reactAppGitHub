@@ -1,0 +1,17 @@
+.card {
+  margin-bottom: 20px;
+}
+
+.card h3 {
+  height: 50px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.card-img {
+  max-height: 100px;
+  width: calc(100% + 2.4rem);
+  margin: -1.25rem;
+  margin-bottom: 10px;
+  border-radius: 0;
+}
